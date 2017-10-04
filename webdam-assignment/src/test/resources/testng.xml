@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="WebDAM Interview Test Suite" verbose="1" >
+    <test name="Assets - Get and Search Tests">
+        <packages>
+            <package name="com.rchinnaswamy.webdam.test.*" />
+        </packages>
+    </test>
+</suite>
